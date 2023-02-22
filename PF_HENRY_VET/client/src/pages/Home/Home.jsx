@@ -4,7 +4,7 @@ import Footer from "../../components/Footer";
 import Nav from "../../components/Nav";
 import loader from "../../style-assets/paw_icon.png";
 import "./Home.module.css";
-import bannerDog from "../../media/bannerDog.png";
+import bannerDog from "../../../public/bannerDog.png";
 import { useDispatch, useSelector } from "react-redux";
 import Modal from "../../components/Modal/Modal";
 import { getAllProducts } from "../../redux/action";
